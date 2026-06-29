@@ -1,0 +1,6 @@
+{
+  "name": "Project Time & Cost Analysis Console",
+  "description": "Interactive SaaS console for project timesheet consolidation and cost center analysis with real-time Excel-style calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
